@@ -33,4 +33,6 @@ module module_counter #(
 
     assign count_o = ~led_count_r;
 
+    
+
 endmodule
